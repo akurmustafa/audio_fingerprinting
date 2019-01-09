@@ -1,4 +1,4 @@
-# Project Title
+# Audio Fingerprinting
 
 This is an implementation of basic audio fingerprinting algorithm to track copyright violations automatically
 
@@ -20,4 +20,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Project inspired by the work of [how shazma works](http://coding-geek.com/how-shazam-works/)
+* Project inspired by the work [how shazma works](http://coding-geek.com/how-shazam-works/)
